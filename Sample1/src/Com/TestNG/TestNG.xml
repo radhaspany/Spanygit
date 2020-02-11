@@ -1,0 +1,14 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="softwaretestingmaterial">
+<test name="testngTest">
+<classes>
+
+<class name="Com.TestNG.GoogleTest" />
+<class name="Com.TestNG.Dependsonmethodconcept" />
+
+
+
+</classes>
+</test>
+</suite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32316" started-at="2019-12-20T14:19:50 EST" finished-at="2019-12-20T14:20:22 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32316" started-at="2019-12-20T14:19:50 EST" finished-at="2019-12-20T14:20:22 EST">
+      <class name="Assignment">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:Assignment@63753b6d]" name="Setup" is-config="true" duration-ms="7079" started-at="2019-12-20T14:19:50 EST" finished-at="2019-12-20T14:19:57 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Validlogin()[pri:0, instance:Assignment@63753b6d]" name="Validlogin" duration-ms="25186" started-at="2019-12-20T14:19:57 EST" finished-at="2019-12-20T14:20:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validlogin -->
+      </class> <!-- Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
